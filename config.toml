@@ -51,7 +51,7 @@ DefaultContentLanguage           = "sl"                    # Default language fo
         icon  = "github" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url = "mailto:primoz.hrovat.96@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:primoz.hrovat@ap-sol.eu"  # For a direct email link, use "mailto:test@example.org".
         icon = "at" # icon name without the 'fa-'
         icon_pack = "fas"
 
